@@ -22,9 +22,6 @@
   "dependencies": {
     "leaflet": "^1.7.1"
   },
-  "engines": {
-    "node": ">11.15.0"
-  },
   "devDependencies": {
     "del": "^3.0.0",
     "gulp": "^3.9.1",
